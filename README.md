@@ -1,2 +1,3 @@
-# 0PN-Notice-Credential
-OpenSource-Repo-for Open Notice Credentials &amp; Receipts
+# Global-Privacy-Rights WHiSSPR Repository
+
+OpenSource-Repo-for Reports, controller identification records, notice and consent receipts. 
